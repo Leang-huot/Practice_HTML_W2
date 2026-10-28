@@ -1,0 +1,12 @@
+/* TODO */
+button{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: burlywood;
+}
+
+button:hover{
+    background-color: brown;
+    border-color:  gold;
+}
