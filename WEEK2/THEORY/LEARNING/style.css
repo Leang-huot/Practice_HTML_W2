@@ -1,0 +1,7 @@
+ul{
+    display :block;
+    margin : 20px;
+    border :1px solid rgb(0, 0, 0);
+    padding :20 px;
+    color :aqua;
+}

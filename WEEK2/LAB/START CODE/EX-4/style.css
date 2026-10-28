@@ -1,0 +1,46 @@
+
+/* General page styling */
+body {
+    background-color: #f5f0eb;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 50px 20px;
+}
+.card{
+    background-color: white;
+    width: 280px;
+    margin :0 auto;
+    padding:52px;
+    border:1px solid rebeccapurple
+}
+
+.card img{
+    width:120px;
+    height: 120px;
+    border-radius: 60px;
+    object-fit: cover;
+}
+.card h1{
+    font-size:32px;
+}
+
+.shortbio{
+    font-size:18px;
+    color:aqua;
+    margin-bottom: 25px;    
+}
+
+.button{
+    background-color: #795548;
+    color: white;
+    font-size: 16px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.card button:hover {
+    background-color: #4e342e;
+}
